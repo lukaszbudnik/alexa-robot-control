@@ -1,0 +1,15 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "Alexa app to control robot",
+  "main": "index.js",
+  "author": "Łukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "alexa": {
+    "applicationId": null
+  },
+  "dependencies": {
+    "alexa-app": "^2.4.0",
+    "node-gcm": "^0.14.4"
+  }
+}

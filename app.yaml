@@ -1,0 +1,5 @@
+runtime: nodejs
+env: flex
+env_variables:
+  GCM_SERVER_KEY: AAA
+  REGISTRATION_TOKEN: BBB
